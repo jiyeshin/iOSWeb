@@ -1,0 +1,6 @@
+framework module Pods_iOSWeb {
+  umbrella header "Pods-iOSWeb-umbrella.h"
+
+  export *
+  module * { export * }
+}
